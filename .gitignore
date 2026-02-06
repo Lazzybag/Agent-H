@@ -1,0 +1,20 @@
+# Agent Zero data directory (contains runtime data, logs, temp files)
+data/
+
+# Docker volumes and cache
+.docker/
+
+# System files
+.DS_Store
+Thumbs.db
+
+# IDE files
+.vscode/
+.idea/
+
+# Logs
+*.log
+
+# Temporary files
+*.tmp
+*.temp
